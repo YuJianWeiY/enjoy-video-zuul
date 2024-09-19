@@ -69,5 +69,4 @@ public class VerifyCodeZuulFilter extends ZuulFilter {
         return 0;
     }
 
-
 }
